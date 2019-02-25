@@ -1,0 +1,84 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "BRF Göteborgsvägen 81"
+theme = "meghna-hugo"
+
+
+# Menu
+[menu]
+
+    [[menu.nav]]
+    name = "Nyhetsflöde"
+    URL = "blog"
+    weight = 1
+
+    [[menu.nav]]
+    name = "Information"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Styrelse"
+    URL = "pricing"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Kontakta oss"
+    URL = "contact-us"
+    weight = 4
+
+# Site params
+[params]
+home= "Hem"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "BRF Göteborgsvägen 81"
+author = "Christopher Vikner"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "BRF Göteborgsvägen 81"
+    content= "I hjärtat av Broslätt vid Mölndal Centrum ligger Lycketegen 1 – hem för de boende i BRF Lyckegården. Fastigheten ägdes tidigare av Akelius men köptes ut av de boende 2010. Här försöker vi skapa en vacker och trevlig plats att leva och bo, genom livets alla olika faser. Vi tror på en sund blandning av människor i olika åldrar med olika social och kulturell bakgrund. Tillsammans kan vi skapa en positiv samhällsutveckling, både i det lilla och stora formatet. Vi önskar vara en framåtsträvande del i skapandet av det nya Mölndal."
+    btn = true
+    btnText="Om oss"
+    btnURL="#blog"
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "#"
+    btnText = "Start a project with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
