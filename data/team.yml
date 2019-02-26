@@ -1,6 +1,6 @@
 enable : true
-heading : Styrelse
-headingSpan :
+heading : Vår
+headingSpan : Styrelse 
 teamMember :
   - image : images/team/team-1.jpg
     name : Mario Pendic

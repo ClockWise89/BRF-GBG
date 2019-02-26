@@ -9,7 +9,7 @@ theme = "meghna-hugo"
 [menu]
 
     [[menu.nav]]
-    name = "Nyhetsflöde"
+    name = "Nyheter"
     URL = "blog"
     weight = 1
 
