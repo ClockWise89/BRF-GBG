@@ -20,7 +20,7 @@ theme = "meghna-hugo"
 
     [[menu.nav]]
     name = "Styrelse"
-    URL = "team"
+    URL = "our-team"
     weight = 3
 
     [[menu.nav]]

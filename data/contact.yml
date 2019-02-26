@@ -1,7 +1,7 @@
 enable : true
-heading : Get In
-headingSpan : Touch
-title : Contact Details
+heading : Kontakta
+headingSpan : Oss
+title : Kontaktinformation
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : false
 mapLatitude : 51.5223477
