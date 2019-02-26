@@ -20,7 +20,7 @@ theme = "meghna-hugo"
 
     [[menu.nav]]
     name = "Styrelse"
-    URL = "pricing"
+    URL = "team"
     weight = 3
 
     [[menu.nav]]
@@ -58,27 +58,3 @@ custom_css = ["css/custom.css"]
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
     btnText = "Start a project with us"
-
-    # counter
-    [params.counter]
-    enable = true
-    bgImage = "images/backgrounds/bg-1.jpg"
-        [[params.counter.counterItem]]
-        title = "Happy Clients"
-        icon = "tf-ion-android-happy"
-        count = "320"
-
-        [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
-        count = "565"
-
-        [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
-        count = "95"
-
-        [[params.counter.counterItem]]
-        title = "Cups of Coffee"
-        icon = "tf-ion-coffee"
-        count = "2500"
