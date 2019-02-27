@@ -6,34 +6,34 @@ aboutItem :
   title : För nyinflyttade
   content : Praktisk information för dig som är nyinflyttad.
   btnText: Läs mer
-  btnURL: about/our-team
+  btnURL: about/newly-moved-in
 
 - icon : tf-strategy
   title : Regler
   content : Diverse regler som gäller inom vår förening.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/rules
 
 - icon : tf-anchor2
   title : Dokument
   content : Här hittar du årsredovisningar, stadgar, protokoll m.m.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/documents
 
 - icon : tf-tools
   title : Parkering
   content : Tips och praktisk information kring parkering.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/parking
 
 - icon : tf-tools
   title : Kalender
   content : Här ser du inbokade händelser som kan vara av intresse.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/calendar
 
 - icon : tf-anchor2
   title : Felanmälan
   content : Praktisk information om hur du går tillväga vid eventuella problem.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/error-report
