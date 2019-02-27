@@ -6,7 +6,7 @@ aboutItem :
   title : För nyinflyttade
   content : Praktisk information för dig som är nyinflyttad.
   btnText: Läs mer
-  btnURL: our-team
+  btnURL: about/our-team
 
 - icon : tf-strategy
   title : Regler
@@ -29,5 +29,11 @@ aboutItem :
 - icon : tf-tools
   title : Kalender
   content : Här ser du inbokade händelser som kan vara av intresse.
+  btnText: Läs mer
+  btnURL: our-team
+
+- icon : tf-anchor2
+  title : Felanmälan
+  content : Praktisk information om hur du går tillväga vid eventuella problem.
   btnText: Läs mer
   btnURL: our-team
