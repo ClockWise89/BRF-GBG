@@ -23,6 +23,8 @@
                     <div class="content text-center">
                         {{ with .title }}<h3 class="ddd">{{ . }}</h3>{{ end }}
                         {{ with .content}}  <p>{{ . }}</p>{{ end }}
+                        {{"<!-- signup button -->" | safeHTML}}
+                    <a class="btn btn-transparent" href="{{ .btnURL | absURL}}">{{ .btnText }}</a>
                     </div>
                 </div>
             </div>
