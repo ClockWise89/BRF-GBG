@@ -33,7 +33,7 @@ teamMember :
   - image : images/team/team-3.jpg
     name : Christopher Vikner
     designation : Kassör och IT
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Christopher bor här tillsammans med sin hustru och deras dotter Ellie. Till vardags arbetar han med programmering så alla tekniska frågor kan riktas till honom.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"

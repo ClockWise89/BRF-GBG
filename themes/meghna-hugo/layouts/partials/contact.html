@@ -28,7 +28,8 @@
 
             {{"<!-- Contact Form -->" | safeHTML}}
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" method="post" action="sendmail.php" role="form">
+                {{ with .Site.Params.email }}
+                <form id="contact-form" class="form-meghna" method="post" action="https://formspree.io/{{ . }}" role="form">
 
                     <input name="e-mail" type="text" id="e-mail" autocomplete="off">
 
@@ -59,8 +60,8 @@
                     <div id="cf-submit">
                         <input type="submit" id="contact-submit" class="btn btn-transparent" value="Skicka">
                     </div>
-
                 </form>
+                {{ end }}
             </div>
 
     {{"<!-- Google Map -->" | safeHTML}}

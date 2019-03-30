@@ -4,7 +4,6 @@ DefaultContentLanguage = "en"
 title = "Göteborgsvägen 81"
 theme = "meghna-hugo"
 
-
 # Menu
 [menu]
 
@@ -39,6 +38,7 @@ author = "Christopher Vikner"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
+email = "ChristopherEliasson@gmail.com"
 
     # Banner Section
     [params.banner]
