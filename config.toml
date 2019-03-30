@@ -1,7 +1,7 @@
 baseURL = "http://brfgoteborgsvagen81.se/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "BRF Göteborgsvägen 81"
+title = "Göteborgsvägen 81"
 theme = "meghna-hugo"
 
 
@@ -31,7 +31,7 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Hem"
-logo = "images/logo.png"
+logo = ""
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "BRF Göteborgsvägen 81"
@@ -45,8 +45,9 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "BRF Göteborgsvägen 81"
-    content= "I hjärtat av Broslätt vid Mölndal Centrum ligger Lycketegen 1 – hem för de boende i BRF Lyckegården. Fastigheten ägdes tidigare av Akelius men köptes ut av de boende 2010. Här försöker vi skapa en vacker och trevlig plats att leva och bo, genom livets alla olika faser. Vi tror på en sund blandning av människor i olika åldrar med olika social och kulturell bakgrund. Tillsammans kan vi skapa en positiv samhällsutveckling, både i det lilla och stora formatet. Vi önskar vara en framåtsträvande del i skapandet av det nya Mölndal."
+    heading = "Göteborgsvägen 81"
+    content= "Mitt på Göteborgsvägen hittar man de boende i BRF Göteborgsvägen 81. En liten, men sammanhållen, skara människor som befinner sig i olika faser i livet. Tillsammans försöker vi skapa en trevlig och positiv plats att bo och umgås på."
+
     btn = true
     btnText="Om oss"
     btnURL="#blog"
@@ -58,3 +59,8 @@ custom_css = ["css/custom.css"]
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
     btnText = "Start a project with us"
+
+    # footer
+    [params.footer]
+    copyrightURL = "http://codeandcrayons.se"
+    copyright = "Christopher Vikner | Template by Themefisher"

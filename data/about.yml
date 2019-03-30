@@ -1,6 +1,6 @@
 enable : true
-heading : Information
-headingSpan :
+heading : Generell
+headingSpan : Information
 aboutItem : 
 - icon : tf-tools
   title : För nyinflyttade

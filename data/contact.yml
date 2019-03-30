@@ -2,7 +2,7 @@ enable : true
 heading : Kontakta
 headingSpan : Oss
 title : Kontaktinformation
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+content : För att komma i kontakt med oss är det bara att fylla i formuläret så kommer vi höra av oss till er så snart vi kan.
 enable_maps : false
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
@@ -11,4 +11,4 @@ contactDetails :
     info : "Göteborgsvägen 81, 433 63 Sävedalen, Sverige"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: styrelsen@goteborgsvagen81.se"
+    info : "Email: styrelsen@brfgoteborgsvagen81.se"
