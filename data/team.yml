@@ -33,7 +33,7 @@ teamMember :
   - image : images/team/team-3.jpg
     name : Christopher Vikner
     designation : Kassör och IT
-    description : Christopher bor här tillsammans med sin hustru och deras dotter Ellie. Till vardags arbetar han med programmering så alla tekniska frågor kan riktas till honom.
+    description : Som kassör ingår det i arbetsuppgifterna att ha koll på ekonomin i föreningen, det är hit ni ska vända er om ni har några frågor kring avier. Eftersom Christopher också är tekniskt lagd kan ni även rikta alla frågor som rör datorer till honom.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
