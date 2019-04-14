@@ -2,7 +2,6 @@
 title: "Trivselregler för de boende"
 date: 2019-04-01
 author: Christopher Vikner
-image: images/blog/blog-post-3.jpg
 description : "Information kring vilka regler som beslutats och ska följas."
 type: info
 ---

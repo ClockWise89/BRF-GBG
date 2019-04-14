@@ -2,9 +2,8 @@
 title: "Felanmälan"
 date: 2019-02-27
 author: Christopher Vikner
-image: images/blog/blog-post-3.jpg
 description : "Information kring felanmälan."
 type: info
 ---
 
-Nedan kommer information om felanmälan.
+Felanmälan, eller bara generella frågor, görs via <a href="/#contact-us">formuläret</a> på startsidan. Vid <b>akutärenden</b> som kräver <b>omedelbar</b> åtgärd ringer ni journumret 0712345678.
