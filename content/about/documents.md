@@ -13,7 +13,7 @@ Stadgar
 
 Protokoll
 ------------------
-{{% link "documents/test.pdf" %}}<u>Årstämma - 2019-02-18</u><br></br>{{% /link %}}
+{{% link "documents/Protokoll - Årsstämma 2019-02-18.pdf" %}}<u>Årstämma - 2019-02-18</u><br></br>{{% /link %}}
 
 
 Årsredovisningar
