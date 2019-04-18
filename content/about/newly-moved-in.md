@@ -33,6 +33,10 @@ Behöver ni hjälp med beställning, installation, eller har andra tekniska frå
 
 <h4>Borttappad bricka eller nyckel</h4> Har ni tappat bort en bricka eller en nyckel? Ingen fara, det är sånt som händer. Vad som också händer är att det blir inbrott pga att brickor eller nycklar är på vift av misstag. Det är således oerhört viktigt att ni hör av er till oss så fort ni märker att något saknas. Det är också oss ni kontaktar om ni behöver en ny bricka.
 
+<h4>Trädgårdsgrupp</h4> Inom en snar framtid hoppas vi ha en trädgårdsgrupp på plats. Dess uppgift kommer att vara att sköta om vår framtida gräsmatta, våra framtida blommor, vår eventuella robotgräsklippare, och allt annat som hör till vår gemensamma trädgård (kanske to m en Boule-bana, eller varför inte en Bowling-bana?). 
+
+Om du har en omättlig aptit att visa upp dina oerhört gröna fingrar offentligt kanske det är dags att ge vika för denna oändliga ström av hunger, och kontakta oss i styrelsen för en chans att visa upp just hur gröna dina fingrar faktiskt är. Du når oss via <a href="/#contact-us">formuläret</a> på startsidan.
+
 <br>
 <center><h4>Med vänliga hälsningar
 
