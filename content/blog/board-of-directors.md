@@ -7,8 +7,8 @@ description : "Information om styrelsen"
 type: blog
 ---
 
-Den 18:e februari hade vi vår allra första årsstämma där fokus låg på att ta över föreningen från den tidigare temporära styrelse som varit verksam under byggnationen av fastigheten. Till detta valde vi också en styrelse, som nu består av fyra personer, och revisor.
+Den 18:e februari hade vi vår allra första årsstämma där fokus låg på att ta över föreningen.
 
 <!--more--> 
 
-Mario Pendic (ordförande), Gunvor Westerberg, Jan Andersson, och Christopher Vikner är våra nya styrelsemedlemmar och Staffan Bergqvist var så snäll att ta på sig rollen som revisor åt oss. På vårt första styrelsemöte valdes Christopher till kassör och Jan till sekreterare.
+I samband med att vi tog över föreningen valde vi dessutom en styrelse som nu består av fyra personer och en revisor. Mario Pendic (ordförande), Gunvor Westerberg, Jan Andersson, och Christopher Vikner är våra nya styrelsemedlemmar där Staffan Bergqvist var så snäll att ta på sig rollen som revisor åt oss. På vårt första styrelsemöte valdes Christopher till kassör och Jan till sekreterare.
