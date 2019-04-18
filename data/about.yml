@@ -4,7 +4,7 @@ headingSpan : Information
 aboutItem : 
 - icon : tf-tools
   title : För nyinflyttade
-  content : Praktisk information för dig som är nyinflyttad.
+  content : Praktisk information för alla, men kanske främst för dig som är nyinflyttad.
   btnText: Läs mer
   btnURL: about/newly-moved-in
 

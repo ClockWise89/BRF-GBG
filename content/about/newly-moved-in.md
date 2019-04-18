@@ -1,7 +1,6 @@
 ---
 title: "Välkommen till Göteborgsvägen 81!"
-date: 2019-02-27
-author: Christopher Vikner
+date: 2019-04-18
 description : "Information för nyinflyttade"
 type: info
 ---
@@ -11,6 +10,10 @@ type: info
 <h4>Medlemsavgift</h4> Avierna skickas ut via e-mail en gång i kvartalet. Om ni har några önskemål eller frågeställningar är det bara att prata med Christopher Vikner.
 
 <h4>Vattenavläsning</h4> Vattenförbrukning ingår inte i medlemsavgiften och avläses den sista dagen i varje enskilt kvartal. Debiteringen kommer på medlemsavgiftsavin följande månad.
+
+<h4>Vattnenavstängning</h4> Ibland behöver man av diverse olika anledningar stänga av vattnet i sin lägenhet. Beroende på vilken lägenhet du har gör man detta på olika ställen. I 4:orna stänger du av vattnet på kranen bakom plåtluckorna i hallens garderob, samt i badrummet. I 2:orna är det endast den i badrummet. Det går även stänga av vattnet för tvättmaskin och torktumlare, detta gör du via det reglage som sticker upp på bänken ovanför maskinerna.
+
+I köket stänger du av vattnet till diskmaskinen och kranen på framsidan av kranen. Behöver du hjälp är det bara att kontakta oss i styrelsen.
 
 <h4>Källsortering</h4> Bruna matavfallspåsar finns i det gemensamma källarutrymmet att hämta. Återvinningsstationer finns både mittemot ICA Supermarket som ligger ligger ett par hundra meter till vänster när ni kör ut från vår parkering, och längst bort på Willys parkering.
 
@@ -28,7 +31,9 @@ Angående besöksparkering har vi en (1) sådan och den är till för just korta
 
 Behöver ni hjälp med beställning, installation, eller har andra tekniska frågor kan ni kontakta styrelsen så hjälper vi er.
 
+<h4>Borttappad bricka eller nyckel</h4> Har ni tappat bort en bricka eller en nyckel? Ingen fara, det är sånt som händer. Vad som också händer är att det blir inbrott pga att brickor eller nycklar är på vift av misstag. Det är således oerhört viktigt att ni hör av er till oss så fort ni märker att något saknas. Det är också oss ni kontaktar om ni behöver en ny bricka.
 
+<br>
 <center><h4>Med vänliga hälsningar
 
 Styrelsen</h4></center>
