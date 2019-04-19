@@ -1,7 +1,7 @@
 baseURL = "http://brfgoteborgsvagen81.se/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Göteborgsvägen 81"
+title = "BRF Göteborgsvägen 81"
 theme = "meghna-hugo"
 
 # Menu
