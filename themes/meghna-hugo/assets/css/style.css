@@ -242,7 +242,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #7E685A;
   color: #fff;
 }
 
@@ -579,7 +579,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.35);
   position: absolute;
   top: 0;
   right: 0;
