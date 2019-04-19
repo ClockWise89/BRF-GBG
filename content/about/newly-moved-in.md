@@ -37,7 +37,7 @@ Behöver ni hjälp med beställning, installation, eller har andra tekniska frå
 
 Om du har en omättlig aptit att visa upp dina oerhört gröna fingrar offentligt kanske det är dags att ge vika för denna oändliga ström av hunger, och kontakta oss i styrelsen för en chans att visa upp just hur gröna dina fingrar faktiskt är. Du når oss via <a href="/#contact-us">formuläret</a> på startsidan.
 
-<br>
-<center><h4>Med vänliga hälsningar
+<br><br><br>
+<center><h4>Med vänliga hälsningar</h4>
 
-Styrelsen</h4></center>
+<h4>Styrelsen</h4></center>

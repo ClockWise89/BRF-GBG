@@ -18,7 +18,7 @@ html {
 body { 
   background-color: #C2CAD0;                            /* Color of background */
   font-family: "Anaheim", sans-serif;
-  color: #7E685A;                                       /* Color of icons */
+  color: #737f8a;                                       /* Color of icons */
   -webkit-font-smoothing: antialiased;
 }
 
@@ -698,6 +698,7 @@ a:hover {
 }
 
 .about .block .icon-box {
+  color: #7E685A;
   position: relative;
   width: 160px;
   height: 92.38px;
