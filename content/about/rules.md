@@ -5,16 +5,15 @@ description : "Information kring vilka regler som beslutats och ska följas."
 type: info
 ---
 
-<p><i>Att bo i bostadsförening innebär ett gemensamt ansvar. Som medlem i föreningen har du inte bara rätten till en bostad i föreningens hus utan du har också skyldigheter mot föreningen och övriga medlemmar! Vi är 9 lägenheter och vi som bor här hjälps alla åt att vårda vår fastighet och skapa god grannsämja. Alla delar ansvaret för detta.
-Ordningsreglerna gäller inte bara dig som bostadsinnehavare. Även familjemedlemmar omfattas liksom gäster, inneboende eller hantverkare som utför arbete åt dig i lägenheten.</i></p>
+<p><i>Att bo i bostadsförening innebär ett gemensamt ansvar. Som medlem i föreningen har du inte bara rätten till en bostad i föreningens hus utan du har också skyldigheter mot föreningen och övriga medlemmar! Vi är 9 lägenheter och vi som bor här hjälps alla åt att vårda vår fastighet och skapa god grannsämja. Alla delar ansvaret för detta.</i></p>
 
 <p><i>Ordningsreglerna gäller inte bara dig som bostadsinnehavare. Även familjemedlemmar omfattas liksom gäster, inneboende eller hantverkare som utför arbete åt dig i lägenheten. </i></p>
 
 <h4>Allmän aktsamhet</h4> Tänk på att vara rädd om och väl vårda föreningens egendom. Kostnader för underhåll och reparationer betalas av alla gemensamt.
 
-<h4>Avloppsystem</h4> Tänk att inte spola annat än toapapper. Papper tork och bindor kan orsaka kostsamma reparationer.
+<h4>Avloppsystem</h4> Tänk på att inte spola annat än toapapper. Grövre papper så som hushållspapper, och bindor kan orsaka kostsamma reparationer.
 
-<h4>Barnvagn</h4> får, liksom andra föremål, ej ställas i trapphusen på grund av brandsäkerheten, städning och framkomlighet. Ställ barnvagn på gården eller i källare. Kom ihåg att påminna gäster att detta gäller dem också.
+<h4>Barnvagn</h4> får, liksom andra föremål, ej ställas i trapphusen på grund av brandsäkerhet, städning och framkomlighet. Ställ barnvagn i källaren. Kom ihåg att påminna gäster om att detta gäller dem också.
 
 <h4>Brandskydd</h4> Fungerande brandvarnare ska finnas i tillräcklig mängd i lägenheten. Kontrollera batteriet med jämna mellanrum. Man bör även ha brandsläckare.
 
@@ -22,7 +21,7 @@ Ordningsreglerna gäller inte bara dig som bostadsinnehavare. Även familjemedle
 
 <h4>Entrédörrar</h4> Se alltid till att ytterdörrarna blir ordentligt stängda. Det kan vara hjälpsamt att släppa in någon men fråga då trevligt vem de ska besöka för att försäkra oss om att ingen obehörig kommer in.
 
-<h4>Fest</h4> Informera dina grannar i god tid om du tänker ha fest och visa hänsyn!
+<h4>Fest</h4> Informera dina grannar i god tid om du tänker ha fest, och visa hänsyn!
 
 <h4>Förfrågningar från styrelsen</h4> Medlemmarna är skyldiga att snarast svara på olika förfrågningar från styrelsen om skötselfrågor, tider att komma in i lägenheten och andra samarbetsfrågor.
 
@@ -38,7 +37,7 @@ Ordningsreglerna gäller inte bara dig som bostadsinnehavare. Även familjemedle
 
 <h4>Markiser, antenner</h4> och liknande får inte sättas upp utan styrelsens medgivande. Den enskilde medlemmen är ensam ansvarig för att sådana installationer hålls i snyggt och säkert skick, för eventuella skador som åsamkas föreningen eller tredje part och för kostnader vid nedtagning.
 
-<h4>Parkering</h4> varje lägenhet har tilldelad en parkeringsplats, Besök parkeringen skall endast användas av våra besökare/gäster.
+<h4>Parkering</h4> varje lägenhet har tilldelad en parkeringsplats, besöksparkeringen skall endast användas av våra besökare/gäster.
 
 <h4>Rökning</h4> i trappuppgång och andra gemensamma inomhusutrymmen är förbjuden. Stå heller inte och rök så att röken drar in genom öppna fönster eller balkonger. Du som röker eller har besökande som röker – ta ansvar för att det inte ligger fimpar och skräp på gården! OBS gäller även snuspåsar och tuggummi.
 
