@@ -5,7 +5,7 @@ teamMember :
   - image : images/team/team-1.jpg
     name : Mario Pendic
     designation : Ordförande
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Tradionellt sett är Ordförande den som leder styrelsen och dess arbete. Orförande har därför ett stort engagemang i föreningen och kan svara på det mesta man kan fråga om den. Med andra ord är Mario en bra person att höra av sig till om man behöver hjälp med något.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -18,8 +18,8 @@ teamMember :
       
   - image : images/team/team-2.jpg
     name : Jan Andersson
-    designation : Fastighets- och teknikansvarig
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    designation : Sekreterare, och Fastighets- och teknikansvarig
+    description : Till sekreterarens uppgifter hör att skriva protokoll och se till att de blir justerade, och vid behov skriva protokollsutdrag. Utöver detta tillkommer uppgifter som underlättar övriga styrelsens arbete. Janne har således att finger i det mesta arbetet som utförs.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -33,7 +33,7 @@ teamMember :
   - image : images/team/team-3.jpg
     name : Christopher Vikner
     designation : Kassör och IT
-    description : Som kassör ingår det i arbetsuppgifterna att ha koll på ekonomin i föreningen, det är hit ni ska vända er om ni har några frågor kring avier. Eftersom Christopher också är tekniskt lagd kan ni även rikta alla frågor som rör datorer till honom.
+    description : Som kassör ingår det i arbetsuppgifterna att ha koll på ekonomin i föreningen, det är hit ni ska vända er om ni har några frågor kring avier, fakturor, eller dylikt. Eftersom Christopher också är tekniskt lagd kan ni även rikta alla frågor som rör datorer, internet, TV, eller liknande till honom.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -47,7 +47,20 @@ teamMember :
   - image : images/team/team-4.jpg
     name : Gunvor Westerberg
     designation : Ledamot
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : En förening har ofta flera ledamöter vars uppdrag är att verka enligt föreningens stadagar och policies. En ledamot hjälper det dagliga arbetet i föreningen, och har rösträtt kring beslutfattande frågor.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+  - image : images/team/team-4.jpg
+    name : Niklas Adebahr
+    designation : Ledamot
+    description : En förening har ofta flera ledamöter vars uppdrag är att verka enligt föreningens stadagar och policies. En ledamot hjälper det dagliga arbetet i föreningen, och har rösträtt kring beslutfattande frågor.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
