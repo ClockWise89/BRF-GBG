@@ -4,6 +4,9 @@ DefaultContentLanguage = "en"
 title = "BRF Göteborgsvägen 81"
 theme = "meghna-hugo"
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
 # Menu
 [menu]
 
